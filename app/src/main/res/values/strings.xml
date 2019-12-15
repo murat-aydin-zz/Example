@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kotlinmovielist</string>
+    <string name="position" translatable="false">position</string>
+    <string name="title">Title</string>
+    <string name="search">Search</string>
+    <string name="search_text">Hadi en sevdiğin filmi arat!</string>
+    <string name="alert_movie">Hay aksi! böyle bir film yapılmamış.</string>
+</resources>

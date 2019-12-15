@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "303416920285",
+    "firebase_url": "https://loodos-b7605.firebaseio.com",
+    "project_id": "loodos-b7605",
+    "storage_bucket": "loodos-b7605.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303416920285:android:a5e5d7e9c552ff97a6b334",
+        "android_client_info": {
+          "package_name": "com.murataydin.app.kotlinmovielist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303416920285-eo26d1s58q4lr94orr13f5r8visg8b1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmFjuemxd7Eaxsa_OiOUozv4Y7u8er8VE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303416920285-eo26d1s58q4lr94orr13f5r8visg8b1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
